@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="RENOaiE2PhfMj-tV1vOd">
+    <mxGraphModel dx="1414" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start&lt;div&gt;Waking Up&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-2" edge="1" parent="1" source="jtSA1BuvGAkGIlEYzUxL-1" style="endArrow=classic;html=1;rounded=0;exitX=0.417;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="210" as="sourcePoint" />
+            <mxPoint x="390" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Brushing Teeth" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-4" edge="1" parent="1" source="jtSA1BuvGAkGIlEYzUxL-3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="310" as="sourcePoint" />
+            <mxPoint x="390" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="400" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.425;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="401" y="431.98" as="sourcePoint" />
+            <mxPoint x="400" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="404" y="541.98" as="sourcePoint" />
+            <mxPoint x="404" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bathing" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Breakfast" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Studying" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Watching TV/Playing Games" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-16" edge="1" parent="1" source="jtSA1BuvGAkGIlEYzUxL-15" style="endArrow=classic;html=1;rounded=0;exitX=0.433;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="760" as="sourcePoint" />
+            <mxPoint x="380" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lunch" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-18" edge="1" parent="1" source="jtSA1BuvGAkGIlEYzUxL-17" style="endArrow=classic;html=1;rounded=0;exitX=0.425;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="930" as="sourcePoint" />
+            <mxPoint x="380" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sleeping" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Going to Tuition" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-21" edge="1" parent="1" source="jtSA1BuvGAkGIlEYzUxL-19" style="endArrow=classic;html=1;rounded=0;exitX=0.425;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="970" as="sourcePoint" />
+            <mxPoint x="380" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-22" edge="1" parent="1" source="jtSA1BuvGAkGIlEYzUxL-20" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="1080" as="sourcePoint" />
+            <mxPoint x="380" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Having Dinner&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-25" edge="1" parent="1" source="jtSA1BuvGAkGIlEYzUxL-23" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="1170" as="sourcePoint" />
+            <mxPoint x="380" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtSA1BuvGAkGIlEYzUxL-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Sleeping&lt;div&gt;End of Routine&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="1120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
